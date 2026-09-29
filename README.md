@@ -4,7 +4,7 @@ A responsive movie discovery application built with React and Vite. Browse popul
 
 ## Live Demo
 
-[View the live application](https://react-movie-app-gihan3.vercel.app/)
+[View the live application](https://react-movie-app-gihan.vercel.app/)
 
 ## Features
 
