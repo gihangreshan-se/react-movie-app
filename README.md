@@ -4,7 +4,7 @@ A responsive movie discovery application built with React and Vite. Browse popul
 
 ## Live Demo
 
-[View the live application](https://react-movie-app-dun.vercel.app)
+[View the live application](https://react-movie-app-gihan3.vercel.app/)
 
 ## Features
 
@@ -225,3 +225,8 @@ No license has been specified for this repository yet. Add a license file if you
 
 - Movie data and poster images are provided by [The Movie Database (TMDB)](https://www.themoviedb.org/).
 - The application is built with [React](https://react.dev/) and [Vite](https://vite.dev/).
+
+## Author
+
+Created by Gihan Greshan Madurapriya ❤️
+
